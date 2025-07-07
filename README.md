@@ -10,6 +10,8 @@ A simple calculator written in pure JavaScript, HTML, and CSS.
 
 ## [Demo](https://username.github.io/simple-js-calculator/)
 
+https://github.com/KyryloKilin/simple-js-calculator/settings/pages 
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/0c2c0103-c318-4664-a4fb-2586e04ce314)
