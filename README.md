@@ -8,9 +8,9 @@ A simple calculator written in pure JavaScript, HTML, and CSS.
 - Responsive design
 - Clean UI
 
-## [Demo](https://username.github.io/simple-js-calculator/)
+## [Demo](https://https://kyrylokilin.github.io/simple-js-calculator/)
 
-https://github.com/KyryloKilin/simple-js-calculator/settings/pages 
+
 
 ## Screenshots
 
