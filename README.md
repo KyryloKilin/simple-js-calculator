@@ -12,7 +12,8 @@ A simple calculator written in pure JavaScript, HTML, and CSS.
 
 ## Screenshots
 
-<img src="screenshot.png" alt="Calculator screenshot" width="300"/>
+![image](https://github.com/user-attachments/assets/0c2c0103-c318-4664-a4fb-2586e04ce314)
+
 
 ## Usage
 
