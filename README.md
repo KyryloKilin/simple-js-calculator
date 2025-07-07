@@ -24,7 +24,7 @@ A simple calculator written in pure JavaScript, HTML, and CSS.
 
 - JavaScript
 - HTML
-- CSS
+
 
 ---
 
