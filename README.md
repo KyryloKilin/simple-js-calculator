@@ -28,4 +28,4 @@ A simple calculator written in pure JavaScript, HTML, and CSS.
 
 ---
 
-Created as a pet project for learning and portfolio.
+
